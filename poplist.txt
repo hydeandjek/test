@@ -1,3 +1,5 @@
 가수명			곡명
 ==========================
 ariana grande		greedy
+ariana grande		away
+justin bieber		peach
