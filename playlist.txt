@@ -1,5 +1,7 @@
 가수명        노래명
 ===================
 aaaaaa		aaaaaaaa
-somker		i love u
+chain somker	i love u
 ive		iam
+에스파		spicy
+bss		파이팅해야지
