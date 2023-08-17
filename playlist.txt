@@ -1,3 +1,5 @@
 가수명        노래명
 ===================
 aaaaaa		aaaaaaaa
+somker		i love u
+ive		iam
